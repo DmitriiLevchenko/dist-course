@@ -1,0 +1,14 @@
+.code-snippet {
+  background-color: #f8f8f8;
+  padding: 10px;
+  border-radius: 5px;
+  font-family: "Courier New", Courier, monospace;
+}
+
+.container ul {
+  margin: 20px 0;
+}
+
+.container ul li {
+  margin: 5px 0;
+}
